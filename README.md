@@ -24,7 +24,11 @@ Esse exercício tem como objetivo treinar as práticas de programação e progra
 - Toda vez que o programa for aberto, deve carregar os eventos a partir da leitura deste arquivo;
 
   ### gif do código funcionando:
-
+  <br>
+  
+  <div align="center">
+  <img width="70%" src="./gif.gif" />
+</div>
 
 
 
